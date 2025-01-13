@@ -1,3 +1,4 @@
+// 트리, 재귀
 #include <stdio.h>
 #include <stdlib.h>
 
